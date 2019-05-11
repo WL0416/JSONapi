@@ -11,11 +11,13 @@
       "phone": "123456",
       "specials": [
         {
+          "id": 1,
           "name": "test",
           "price": 100,
           "day": "Monday",
           "type": "Pizza",
-          "descrip": "test"
+          "descrip": "test",
+          "rate": 0
         }
       ]
     }
