@@ -1,19 +1,23 @@
 {
-  "id": 1,
-  "name": "test",
-  "vanue": "test",
-  "address": "test",
-  "website": "test",
-  "suburb": "test",
-  "postcode": "123456",
-  "phone": "123456",
-  "specials": [
+  "vendors": [
     {
+      "id": 1,
       "name": "test",
-      "price": 100,
-      "day": "Monday",
-      "type": "Pizza",
-      "descrip": "test"
+      "vanue": "test",
+      "address": "test",
+      "website": "test",
+      "suburb": "test",
+      "postcode": "123456",
+      "phone": "123456",
+      "specials": [
+        {
+          "name": "test",
+          "price": 100,
+          "day": "Monday",
+          "type": "Pizza",
+          "descrip": "test"
+        }
+      ]
     }
   ]
 }
