@@ -3,12 +3,33 @@
     {
       "id": 1,
       "name": "test",
-      "vanue": "test",
+      "vanue": "test1",
       "address": "test",
       "website": "test",
       "suburb": "test",
       "postcode": "123456",
       "phone": "123456",
+      "specials": [
+        {
+          "id": 1,
+          "name": "test",
+          "price": 100,
+          "day": "Monday",
+          "type": "Pizza",
+          "descrip": "test",
+          "rate": 0
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "test2",
+      "vanue": "test2",
+      "address": "test2",
+      "website": "test2",
+      "suburb": "test2",
+      "postcode": "1234567",
+      "phone": "1234567",
       "specials": [
         {
           "id": 1,
