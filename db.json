@@ -2,13 +2,12 @@
   "vendors": [
     {
       "id": 1,
-      "name": "test",
-      "vanue": "test1",
-      "address": "test",
-      "website": "test",
-      "suburb": "test",
-      "postcode": "123456",
-      "phone": "123456",
+      "vanue": "Red Spice QV",
+      "address": "37 Artemis Lane",
+      "website": "redspiceqv.com",
+      "suburb": "Melbourne CBD",
+      "postcode": "3000",
+      "phone": "03 8660 6300",
       "specials": [
         {
           "id": 1,
@@ -23,22 +22,21 @@
     },
     {
       "id": 2,
-      "name": "test2",
-      "vanue": "test2",
-      "address": "test2",
-      "website": "test2",
-      "suburb": "test2",
-      "postcode": "1234567",
-      "phone": "1234567",
+      "vanue": "The Elephant & Wheelbarrow",
+      "address": "94-96 Bourke Street",
+      "website": "bourkest.elephantandwheelbarrow.com.au",
+      "suburb": "Melbourne",
+      "postcode": "3000",
+      "phone": "03 9639 8444",
       "specials": [
         {
           "id": 1,
-          "name": "test",
-          "price": 100,
+          "name": "Parma Night",
+          "price": 17,
           "day": "Monday",
-          "type": "Pizza",
-          "descrip": "test",
-          "rate": 0
+          "type": "Parma",
+          "descrip": "Every Monday down at The Elephant & Wheelbarrow, grab yourself up one of our awesome Parmas for just $17 from 5pm-9pm Now that's a great start to the week!",
+          "rate": 5
         }
       ]
     }
