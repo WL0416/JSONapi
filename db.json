@@ -8,17 +8,7 @@
       "suburb": "Melbourne CBD",
       "postcode": "3000",
       "phone": "03 8660 6300",
-      "specials": [
-        {
-          "id": 1,
-          "name": "test",
-          "price": 100,
-          "day": "Monday",
-          "type": "Pizza",
-          "descrip": "test",
-          "rate": 0
-        }
-      ]
+      "specials": []
     },
     {
       "id": 2,
