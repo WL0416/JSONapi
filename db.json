@@ -48,7 +48,7 @@
       "day": "Monday",
       "type": "Parma",
       "descrip": "Every Monday down at The Elephant & Wheelbarrow, grab yourself up one of our awesome Parmas for just $17 from 5pm-9pm Now that's a great start to the week!",
-      "rate": 1,
+      "rate": 3,
       "date": 2
     },
     {
@@ -65,7 +65,7 @@
       "day": "Monday",
       "type": "Parma",
       "descrip": "Every Monday down at The Elephant & Wheelbarrow, grab yourself up one of our awesome Parmas for just $17 from 5pm-9pm Now that's a great start to the week!",
-      "rate": 1,
+      "rate": 2,
       "date": 3
     }
   ]
