@@ -1,5 +1,5 @@
 {
-  "vendors": [
+  "specials": [
     {
       "id": 1,
       "vanue": "Red Spice QV",
@@ -9,17 +9,13 @@
       "suburb": "Melbourne CBD",
       "postcode": "3000",
       "phone": "03 8660 6300",
-      "specials": [
-        {
-          "id": 1,
-          "name": "Parma Night",
-          "price": 17,
-          "day": "Saturday",
-          "type": "Parma",
-          "descrip": "Every Monday down at The Elephant & Wheelbarrow, grab yourself up one of our awesome Parmas for just $17 from 5pm-9pm Now that's a great start to the week!",
-          "rate": 5
-        }
-      ]
+
+      "name": "Parma Night",
+      "price": 17,
+      "day": "Saturday",
+      "type": "Parma",
+      "descrip": "Every Monday down at The Elephant & Wheelbarrow, grab yourself up one of our awesome Parmas for just $17 from 5pm-9pm Now that's a great start to the week!",
+      "rate": 5
     },
     {
       "id": 2,
@@ -30,17 +26,12 @@
       "suburb": "Melbourne",
       "postcode": "3000",
       "phone": "03 9639 8444",
-      "specials": [
-        {
-          "id": 1,
-          "name": "Parma Night",
-          "price": 17,
-          "day": "Monday",
-          "type": "Parma",
-          "descrip": "Every Monday down at The Elephant & Wheelbarrow, grab yourself up one of our awesome Parmas for just $17 from 5pm-9pm Now that's a great start to the week!",
-          "rate": 5
-        }
-      ]
+      "name": "Parma Night",
+      "price": 17,
+      "day": "Monday",
+      "type": "Parma",
+      "descrip": "Every Monday down at The Elephant & Wheelbarrow, grab yourself up one of our awesome Parmas for just $17 from 5pm-9pm Now that's a great start to the week!",
+      "rate": 1
     }
   ]
 }
