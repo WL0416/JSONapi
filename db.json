@@ -9,13 +9,13 @@
       "suburb": "Melbourne CBD",
       "postcode": "3000",
       "phone": "03 8660 6300",
-
       "name": "Parma Night",
       "price": 17,
       "day": "Saturday",
       "type": "Parma",
       "descrip": "Every Monday down at The Elephant & Wheelbarrow, grab yourself up one of our awesome Parmas for just $17 from 5pm-9pm Now that's a great start to the week!",
-      "rate": 5
+      "rate": 5,
+      "date": 0
     },
     {
       "id": 2,
@@ -27,11 +27,12 @@
       "postcode": "3000",
       "phone": "03 9639 8444",
       "name": "Parma Night",
-      "price": 17,
+      "price": 15,
       "day": "Monday",
       "type": "Parma",
       "descrip": "Every Monday down at The Elephant & Wheelbarrow, grab yourself up one of our awesome Parmas for just $17 from 5pm-9pm Now that's a great start to the week!",
-      "rate": 1
+      "rate": 1,
+      "date": 1
     }
   ]
 }
