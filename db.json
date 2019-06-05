@@ -2,7 +2,7 @@
   "specials": [
     {
       "id": 1,
-      "vanue": "The Elephant & Wheelbarrow",
+      "vendor": "The Elephant & Wheelbarrow",
       "continent": "Australia",
       "address": "94-96 Bourke Street",
       "website": "bourkest.elephantandwheelbarrow.com.au",
@@ -20,7 +20,7 @@
     },
     {
       "id": 2,
-      "vanue": "The Elephant & Wheelbarrow",
+      "vendor": "The Elephant & Wheelbarrow",
       "continent": "Australia",
       "address": "94-96 Bourke Street",
       "website": "bourkest.elephantandwheelbarrow.com.au",
@@ -38,7 +38,7 @@
     },
     {
       "id": 3,
-      "vanue": "The Elephant & Wheelbarrow",
+      "vendor": "The Elephant & Wheelbarrow",
       "continent": "Australia",
       "address": "94-96 Bourke Street",
       "website": "bourkest.elephantandwheelbarrow.com.au",
@@ -56,7 +56,7 @@
     },
     {
       "id": 4,
-      "vanue": "The Elephant & Wheelbarrow",
+      "vendor": "The Elephant & Wheelbarrow",
       "continent": "Australia",
       "address": "94-96 Bourke Street",
       "website": "bourkest.elephantandwheelbarrow.com.au",
@@ -74,7 +74,7 @@
     },
     {
       "id": 5 ,
-      "vanue": "The Elephant & Wheelbarrow",
+      "vendor": "The Elephant & Wheelbarrow",
       "continent": "Australia",
       "address": "94-96 Bourke Street",
       "website": "bourkest.elephantandwheelbarrow.com.au",
@@ -92,7 +92,7 @@
     },
     {
       "id": 6,
-      "vanue": "The Elephant & Wheelbarrow",
+      "vendor": "The Elephant & Wheelbarrow",
       "continent": "Australia",
       "address": "94-96 Bourke Street",
       "website": "bourkest.elephantandwheelbarrow.com.au",
@@ -110,7 +110,7 @@
     },
     {
       "id": 7,
-      "vanue": "The Posty",
+      "vendor": "The Posty",
       "continent": "Australia",
       "address": "90 Swan St",
       "website": "www.theposty.com.au",
