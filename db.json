@@ -14,7 +14,7 @@
       "day": "Monday",
       "type": "Parma",
       "descrip": "Every Monday down at The Elephant & Wheelbarrow, grab yourself up one of our awesome Parmas for just $17 from 5pm-9pm Now that's a great start to the week!",
-      "image": require("../../vendors/locanda-restaurant-bar.jpg"),
+      "image": "../../vendors/locanda-restaurant-bar.jpg",
       "rate": 1,
       "date": 1
     },
@@ -32,7 +32,7 @@
       "day": "Tuesday",
       "type": "Banger",
       "descrip": "TUESDAYS 5PM - 9PM Tuesday nights our Bangers & Mash special is the go! Cumberland sausages served with mash & veg, Just $17.",
-      "image": require("../../vendors/locanda-restaurant-bar.jpg"),
+      "image": "../../vendors/locanda-restaurant-bar.jpg",
       "rate": 1,
       "date": 2
     },
@@ -50,7 +50,7 @@
       "day": "Wednesday",
       "type": "Fish&Chips",
       "descrip": "Wednesdays, get into The Elephant Bourke Street and score a delicious plate of fish and chips for just $18",
-      "image": require("../../vendors/locanda-restaurant-bar.jpg"),
+      "image": "../../vendors/locanda-restaurant-bar.jpg",
       "rate": 3,
       "date": 3
     },
@@ -68,7 +68,7 @@
       "day": "Thursday",
       "type": "Parma",
       "descrip": "THURSDAYS 5PM - 9PM Get into The Elephant & Wheelbarrow for Steak night. A juicy 250 g porterhouse coated in gravy, served with chips and green salad and your choice of either a pot of Furphy's refreshing ale, a glass of Stony Peak Shiraz Cab or Chardonnay, Morgan's Bay Sauvignon Blanc or a Soft Drink, all for $25!",
-      "image": require("../../vendors/locanda-restaurant-bar.jpg"),
+      "image": "../../vendors/locanda-restaurant-bar.jpg",
       "rate": 2,
       "date": 4
     },
@@ -86,7 +86,7 @@
       "day": "Friday",
       "type": "Burger",
       "descrip": "MONDAY - FRIDAY 12PM - 5PM One of the best value lunches downtown! JUST $20, WEEKDAYS.",
-      "image": require("../../vendors/locanda-restaurant-bar.jpg"),
+      "image": "../../vendors/locanda-restaurant-bar.jpg",
       "rate": 2,
       "date": 5
     },
@@ -104,7 +104,7 @@
       "day": "Sunday",
       "type": "Roast",
       "descrip": "Every Sunday from Midday Your Choice of 2 roasts with all the trimmings! JUST $19.90",
-      "image": require("../../vendors/locanda-restaurant-bar.jpg"),
+      "image": "../../vendors/locanda-restaurant-bar.jpg",
       "rate": 2,
       "date": 6
     },
@@ -122,7 +122,7 @@
       "day": "Saturday",
       "type": "Roast",
       "descrip": "Our $11 lunch special is available Fri - Sat, 12pm - 3pm. All pizzas from our menu are available.",
-      "image": require("../../vendors/locanda-restaurant-bar.jpg"),
+      "image": "../../vendors/locanda-restaurant-bar.jpg",
       "rate": 5,
       "date": 7
     }
