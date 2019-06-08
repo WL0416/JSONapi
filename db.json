@@ -1,35 +1,33 @@
 {
-  "quantity": [
-    {
-      "weekdays": {
-        "Monday": 2,
-        "Tuestday": 2,
-        "Wednesday": 2,
-        "Thursday": 2,
-        "Friday": 2,
-        "Saturday": 2,
-        "Sunday": 2
-      },
-      "continents": {
-        "Australia": 14,
-        "Asia": 0,
-        "Africa": 0,
-        "Europe": 0,
-        "North America": 0,
-        "South America": 0,
-        "Antarctica": 0
-      },
-      "types": {
-        "Parma": 4,
-        "Pizza": 0,
-        "Noodle": 0,
-        "Steak": 0,
-        "Burger": 3,
-        "Pie": 0,
-        "Fishchips": 1
-      }
+  "quantity": {
+    "weekdays": {
+      "Monday": 2,
+      "Tuestday": 2,
+      "Wednesday": 2,
+      "Thursday": 2,
+      "Friday": 2,
+      "Saturday": 2,
+      "Sunday": 2
+    },
+    "continents": {
+      "Australia": 14,
+      "Asia": 0,
+      "Africa": 0,
+      "Europe": 0,
+      "North America": 0,
+      "South America": 0,
+      "Antarctica": 0
+    },
+    "types": {
+      "Parma": 4,
+      "Pizza": 0,
+      "Noodle": 0,
+      "Steak": 0,
+      "Burger": 3,
+      "Pie": 0,
+      "Fishchips": 1
     }
-  ],
+  },
   "specials": [
     {
       "id": 1,
