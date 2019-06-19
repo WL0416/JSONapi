@@ -28,6 +28,10 @@
       "Fishchips": 1
     }
   },
+  "venues": {
+    "Melbourn": 12,
+    "Richmond": 2
+  },
   "specials": [
     {
       "id": 1,
