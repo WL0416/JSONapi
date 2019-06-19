@@ -29,8 +29,12 @@
     }
   },
   "venues": {
-    "Melbourn": 12,
-    "Richmond": 2
+    "Melbourn": {
+      "The Elephant & Wheelbarrow": 12
+    },
+    "Richmond": {
+      "The Posty": 2
+    }
   },
   "specials": [
     {
