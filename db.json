@@ -2,7 +2,7 @@
   "quantity": {
     "weekdays": {
       "Monday": 2,
-      "Tuestday": 2,
+      "Tuesday": 2,
       "Wednesday": 2,
       "Thursday": 2,
       "Friday": 2,
@@ -26,6 +26,14 @@
       "Burger": 3,
       "Pie": 0,
       "Fishchips": 1
+    }
+  },
+  "venues": {
+    "Melbourne": {
+      "The Elephant & Wheelbarrow": 12
+    },
+    "Richmond": {
+      "The Posty": 2
     }
   },
   "specials": [
