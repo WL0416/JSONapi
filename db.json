@@ -43,6 +43,8 @@
       "day": "Monday",
       "type": "Parma",
       "descrip": "Every Monday down at The Elephant & Wheelbarrow, grab yourself up one of our awesome Parmas for just $17 from 5pm-9pm Now that's a great start to the week!",
+      "start": 1700,
+      "end": 2100,
       "image": "the-elephant-and-wheelbarrow-bourke-street-melbourne.jpg",
       "rate": 1,
       "date": 1
@@ -61,6 +63,8 @@
       "day": "Tuesday",
       "type": "Banger",
       "descrip": "TUESDAYS 5PM - 9PM Tuesday nights our Bangers & Mash special is the go! Cumberland sausages served with mash & veg, Just $17.",
+      "start": 1700,
+      "end": 2100,
       "image": "the-elephant-and-wheelbarrow-bourke-street-melbourne.jpg",
       "rate": 1,
       "date": 2
@@ -79,6 +83,8 @@
       "day": "Wednesday",
       "type": "Fish&Chips",
       "descrip": "Wednesdays, get into The Elephant Bourke Street and score a delicious plate of fish and chips for just $18",
+      "start": 1700,
+      "end": 2100,
       "image": "the-elephant-and-wheelbarrow-bourke-street-melbourne.jpg",
       "rate": 3,
       "date": 3
@@ -97,6 +103,8 @@
       "day": "Thursday",
       "type": "Parma",
       "descrip": "THURSDAYS 5PM - 9PM Get into The Elephant & Wheelbarrow for Steak night. A juicy 250 g porterhouse coated in gravy, served with chips and green salad and your choice of either a pot of Furphy's refreshing ale, a glass of Stony Peak Shiraz Cab or Chardonnay, Morgan's Bay Sauvignon Blanc or a Soft Drink, all for $25!",
+      "start": 1700,
+      "end": 2100,
       "image": "the-elephant-and-wheelbarrow-bourke-street-melbourne.jpg",
       "rate": 2,
       "date": 4
@@ -115,6 +123,8 @@
       "day": "Friday",
       "type": "Burger",
       "descrip": "MONDAY - FRIDAY 12PM - 5PM One of the best value lunches downtown! JUST $20, WEEKDAYS.",
+      "start": 1200,
+      "end": 1700,
       "image": "the-elephant-and-wheelbarrow-bourke-street-melbourne.jpg",
       "rate": 2,
       "date": 5
@@ -133,6 +143,8 @@
       "day": "Sunday",
       "type": "Roast",
       "descrip": "Every Sunday from Midday Your Choice of 2 roasts with all the trimmings! JUST $19.90",
+      "start": 1200,
+      "end": 2100,
       "image": "the-elephant-and-wheelbarrow-bourke-street-melbourne.jpg",
       "rate": 2,
       "date": 6
@@ -151,6 +163,8 @@
       "day": "Saturday",
       "type": "Roast",
       "descrip": "Our $11 lunch special is available Fri - Sat, 12pm - 3pm. All pizzas from our menu are available.",
+      "start": 1200,
+      "end": 1500,
       "image": "the-elephant-and-wheelbarrow-bourke-street-melbourne.jpg",
       "rate": 5,
       "date": 7
@@ -169,6 +183,8 @@
       "day": "Monday",
       "type": "Parma",
       "descrip": "Every Monday down at The Elephant & Wheelbarrow, grab yourself up one of our awesome Parmas for just $17 from 5pm-9pm Now that's a great start to the week!",
+      "start": 1700,
+      "end": 2100,
       "image": "the-elephant-and-wheelbarrow-bourke-street-melbourne.jpg",
       "rate": 1,
       "date": 8
@@ -187,6 +203,8 @@
       "day": "Tuesday",
       "type": "Banger",
       "descrip": "TUESDAYS 5PM - 9PM Tuesday nights our Bangers & Mash special is the go! Cumberland sausages served with mash & veg, Just $17.",
+      "start": 1700,
+      "end": 2100,
       "image": "the-elephant-and-wheelbarrow-bourke-street-melbourne.jpg",
       "rate": 1,
       "date": 9
@@ -205,6 +223,8 @@
       "day": "Wednesday",
       "type": "Fish&Chips",
       "descrip": "Wednesdays, get into The Elephant Bourke Street and score a delicious plate of fish and chips for just $18",
+      "start": 1700,
+      "end": 2100,
       "image": "the-elephant-and-wheelbarrow-bourke-street-melbourne.jpg",
       "rate": 3,
       "date": 10
@@ -223,6 +243,8 @@
       "day": "Thursday",
       "type": "Parma",
       "descrip": "THURSDAYS 5PM - 9PM Get into The Elephant & Wheelbarrow for Steak night. A juicy 250 g porterhouse coated in gravy, served with chips and green salad and your choice of either a pot of Furphy's refreshing ale, a glass of Stony Peak Shiraz Cab or Chardonnay, Morgan's Bay Sauvignon Blanc or a Soft Drink, all for $25!",
+      "start": 1700,
+      "end": 2100,
       "image": "the-elephant-and-wheelbarrow-bourke-street-melbourne.jpg",
       "rate": 2,
       "date": 11
@@ -241,6 +263,8 @@
       "day": "Friday",
       "type": "Burger",
       "descrip": "MONDAY - FRIDAY 12PM - 5PM One of the best value lunches downtown! JUST $20, WEEKDAYS.",
+      "start": 1700,
+      "end": 2100,
       "image": "the-elephant-and-wheelbarrow-bourke-street-melbourne.jpg",
       "rate": 2,
       "date": 12
@@ -259,6 +283,8 @@
       "day": "Sunday",
       "type": "Roast",
       "descrip": "Every Sunday from Midday Your Choice of 2 roasts with all the trimmings! JUST $19.90",
+      "start": 1200,
+      "end": 2100,
       "image": "the-elephant-and-wheelbarrow-bourke-street-melbourne.jpg",
       "rate": 2,
       "date": 13
@@ -277,6 +303,8 @@
       "day": "Saturday",
       "type": "Roast",
       "descrip": "Our $11 lunch special is available Fri - Sat, 12pm - 3pm. All pizzas from our menu are available.",
+      "start": 1200,
+      "end": 1500,
       "image": "the-elephant-and-wheelbarrow-bourke-street-melbourne.jpg",
       "rate": 5,
       "date": 14
